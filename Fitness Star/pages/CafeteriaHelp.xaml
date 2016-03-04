@@ -1,0 +1,14 @@
+﻿<Page x:Class="Fitness_Star.pages.CafeteriaHelp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      d:DesignHeight="423.214" d:DesignWidth="510.204"
+    Title="CafeteriaHelp">
+
+    <Grid Background="Teal" Height="406" Width="484">
+        <TextBlock HorizontalAlignment="Left" Margin="189,10,0,0" TextWrapping="Wrap" Text="Cafeteria" VerticalAlignment="Top" Height="33" Width="137" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="22,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="324" Width="436" FontSize="18"><Run Text="You may click the &quot;Orders&quot; button to order any drinks or food from our cafeteria."/><LineBreak/><Run/><LineBreak/><Run Text="Your credit card will be charged for any purchases."/></TextBlock>
+    </Grid>
+</Page>

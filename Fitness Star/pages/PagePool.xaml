@@ -1,0 +1,46 @@
+﻿<Page x:Class="Fitness_Star.pages.PagePool"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+	Title="PagePool">
+    <Canvas>
+        <Grid Height="600" Width="800">
+            <Image x:Name="Image1" Source="..\obj\Debug\Images\pool.jpg"/>
+            <Grid HorizontalAlignment="Left" Height="451" Margin="47,48,0,0" VerticalAlignment="Top" Width="408">
+                <Label Content="Temperature" HorizontalAlignment="Left" Margin="22,15,0,0" VerticalAlignment="Top" Height="38" Width="135" FontSize="20" FontWeight="Bold"/>
+                <Slider Orientation="Vertical" Width="24" Maximum="8" ValueChanged="Slider_ValueChanged" IsSnapToTickEnabled="True" Margin="45,53,339,116">
+                    <Slider.Background>
+                        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                            <GradientStop Color="Red" Offset="0"/>
+                            <GradientStop Color="#FF2E00FF" Offset="1"/>
+                            <GradientStop Color="#FF8717A8" Offset="0.509"/>
+                        </LinearGradientBrush>
+                    </Slider.Background>
+                    <Slider.Effect>
+                        <DropShadowEffect/>
+                    </Slider.Effect>
+                </Slider>
+                <TextBox x:Name="Temp" HorizontalAlignment="Left" Height="34" Margin="86,58,0,0" TextWrapping="Wrap" Text="18°C" VerticalAlignment="Top" Width="60" RenderTransformOrigin="0.945,0.897" FontSize="22" FontStyle="Italic" FontWeight="Bold"/>
+                <Slider HorizontalAlignment="Left" Margin="188,56,0,0" Maximum="4" VerticalAlignment="Top" Width="188" Height="21" Background="#FF00B2F5" IsSnapToTickEnabled="True" ValueChanged="Slider_ValueChanged_1">
+                    <Slider.Effect>
+                        <DropShadowEffect Color="#FF0046FF"/>
+                    </Slider.Effect>
+                </Slider>
+                <Label Content="Water Level" HorizontalAlignment="Left" Margin="188,14,0,0" VerticalAlignment="Top" Width="129" FontSize="20" FontWeight="Bold"/>
+                <Label Content="Low" HorizontalAlignment="Left" Margin="188,77,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" RenderTransformOrigin="0.585,0.226"/>
+                <Label Content="High" HorizontalAlignment="Left" Margin="330,77,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.152,0.04" FontSize="16" FontWeight="Bold"/>
+                <Label Content="Sensor" HorizontalAlignment="Left" Margin="188,137,0,0" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+                <StackPanel HorizontalAlignment="Left" Height="41" Margin="188,171,0,0" VerticalAlignment="Top" Width="77">
+                    <RadioButton Content="On" FontSize="16" Checked="RadioButton_Checked"/>
+                    <RadioButton Content="Off" FontSize="16" Checked="RadioButton_Checked_1"/>
+                </StackPanel>
+                <Image x:Name="Image2" HorizontalAlignment="Left" Height="50" Margin="188,217,0,0" VerticalAlignment="Top" Width="100"/>
+            </Grid>
+
+        </Grid>
+
+    </Canvas>
+</Page>

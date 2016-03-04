@@ -1,0 +1,90 @@
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\bin\Debug\Fitness Star.exe.config
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\bin\Debug\Fitness Star.exe
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\bin\Debug\Fitness Star.pdb
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star.csprojResolveAssemblyReference.cache
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\App.g.cs
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star_MarkupCompile.cache
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star.g.resources
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness_Star.Properties.Resources.resources
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star.csproj.GenerateResource.Cache
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star.exe
+c:\users\expert\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\Fitness Star.pdb
+C:\Users\EXPERT\Documents\Visual Studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageStart.baml
+C:\Users\EXPERT\Documents\Visual Studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageStart.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageLobby.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageLobby.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageTreadmill.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageTreadmill.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageCafeteria.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PagePool.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PageCafeteria.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\pages\PagePool.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\bin\Debug\Fitness Star.exe.config
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star.exe
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star.pdb
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\bin\Debug\Fitness Star.exe
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\bin\Debug\Fitness Star.pdb
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star.csprojResolveAssemblyReference.cache
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\MainWindow.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageCafeteria.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageLobby.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PagePool.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageStart.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageTreadmill.baml
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\MainWindow.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageCafeteria.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageLobby.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PagePool.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageStart.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\pages\PageTreadmill.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\App.g.cs
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star_MarkupCompile.cache
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star.g.resources
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness_Star.Properties.Resources.resources
+C:\Users\EXPERT\Desktop\Fitness-Star-master\Fitness Star\obj\Debug\Fitness Star.csproj.GenerateResource.Cache
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\windows\TransactionWindow.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\windows\TransactionWindow.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\MainWindow.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\MainWindow.g.cs
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\windows\OrderWindow.baml
+C:\Users\EXPERT\documents\visual studio 2013\Projects\Fitness Star\Fitness Star\obj\Debug\windows\OrderWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\bin\Debug\Fitness Star.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star.exe
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star.pdb
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\bin\Debug\Fitness Star.exe
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\bin\Debug\Fitness Star.pdb
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageCafeteria.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageLobby.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PagePool.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageStart.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageTreadmill.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\OrderWindow.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\TransactionWindow.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageCafeteria.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageLobby.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PagePool.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageStart.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PageTreadmill.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\OrderWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\TransactionWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star.g.resources
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness_Star.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\Fitness Star.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\CafeteriaHelp.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\LobbyHelp.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\TreadmillHelp.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\WindowHelp.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\CafeteriaHelp.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\LobbyHelp.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\TreadmillHelp.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\windows\WindowHelp.g.cs
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PoolHelp.baml
+C:\Users\user\Documents\Visual Studio 2013\Fitness Star\Fitness Star\obj\Debug\pages\PoolHelp.g.cs
+C:\Users\EXPERT\Desktop\Fitness Star\Fitness Star\bin\Debug\Fitness Star.exe.config
+C:\Users\EXPERT\Desktop\Fitness Star\Fitness Star\obj\Debug\Fitness Star.exe
+C:\Users\EXPERT\Desktop\Fitness Star\Fitness Star\obj\Debug\Fitness Star.pdb

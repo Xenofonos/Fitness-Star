@@ -1,0 +1,14 @@
+﻿<Page x:Class="Fitness_Star.pages.LobbyHelp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      d:DesignHeight="401.02" d:DesignWidth="476.531"
+    Title="LobbyHelp">
+
+    <Grid Background="Teal" Height="406" Width="484">
+        <TextBlock HorizontalAlignment="Left" Margin="189,10,0,0" TextWrapping="Wrap" Text="Lobby" VerticalAlignment="Top" Height="33" Width="137" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="22,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="324" Width="436" FontSize="18"><Run Text="First, select &quot;Staff&quot; if you are a member of the staff or &quot;Customer&quot; if you are a Customer. "/><LineBreak/><Run Text="As a Customer you can review your account balance."/><LineBreak/><Run Text="As a staff member you can switch on/off the lights and the TVs."/><LineBreak/><Run/><LineBreak/><Run Text="Additionally, you can move to the Cafeteria by pressing the &quot;Cafeteria&quot; button or the Pool by pressing the &quot;Pool&quot; button."/><LineBreak/><Run/><LineBreak/><Run Text="Finally, you can use the treadmill by pressing the &quot;Treadmill&quot; button."/></TextBlock>
+    </Grid>
+</Page>

@@ -1,0 +1,14 @@
+﻿<Page x:Class="Fitness_Star.pages.TreadmillHelp"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      mc:Ignorable="d"
+      d:DesignHeight="406" d:DesignWidth="484"
+    Title="TreadmillHelp">
+
+    <Grid Background="Teal" Height="406" Width="484">
+        <TextBlock HorizontalAlignment="Left" Margin="189,10,0,0" TextWrapping="Wrap" Text="Treadmill" VerticalAlignment="Top" Height="33" Width="137" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Margin="22,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="324" Width="436" FontSize="18"><Run Text="Firstly, input your height in centimeters in the &quot;Height&quot; field."/><LineBreak/><Run Text=""/><LineBreak/><Run Text="After that, press the &quot;Begin Workout&quot; button, so that the treadmill can calculate your weight in kilos and display to you your body mass index."/><LineBreak/><Run/><LineBreak/><Run Text="Finally, you can press the &quot;Workout Plan&quot; button to have the machine suggest to you a workout plan personalized to your needs, or the &quot;Meal Plan&quot; button to display a suitable meal plan for you."/></TextBlock>
+    </Grid>
+</Page>
